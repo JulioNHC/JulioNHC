@@ -27,7 +27,7 @@ const JulioNHC = {
 };
 ```
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<h2 align="center">Github stats</h2>
 <p align="center">
   <img src="https://profile-counter.glitch.me/{JulioNHC}/count.svg" alt="AnhellO :: Visitor's Count" /> <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=JulioNHC&show_icons=true&theme=tokyonight"/>
